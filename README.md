@@ -17,5 +17,6 @@ Bloc pattern is a state management technique. BLoC stands for Business Logic Com
 
 # Documentation links 
 1. https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern  
+2. https://link.medium.com/i8XaesFKZ6
 
 
